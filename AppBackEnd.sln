@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBackEnd", "AppBackEnd\AppBackEnd.csproj", "{68C65EC8-5DB0-40F5-A6D9-52F4F950D92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Models", "EmployeeManagement.Models\EmployeeManagement.Models.csproj", "{35A095FB-FF27-4860-B991-AAE0AC26FA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C65EC8-5DB0-40F5-A6D9-52F4F950D92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C65EC8-5DB0-40F5-A6D9-52F4F950D92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C65EC8-5DB0-40F5-A6D9-52F4F950D92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C65EC8-5DB0-40F5-A6D9-52F4F950D92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A095FB-FF27-4860-B991-AAE0AC26FA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A095FB-FF27-4860-B991-AAE0AC26FA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A095FB-FF27-4860-B991-AAE0AC26FA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A095FB-FF27-4860-B991-AAE0AC26FA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FC17C3-E276-4776-B078-F2269BEC39D3}
+	EndGlobalSection
+EndGlobal
